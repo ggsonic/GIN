@@ -1,7 +1,7 @@
 # GIN
 Official repository for the work: "Preliminary concept of General intelligent network (GIN) for brain-like intelligence"[[pdf](https://vixra.org/pdf/2201.0188v1.pdf)]
 
-# some important thoughts
+# some explanation
 
 * HPP why we name it HPP? Because HPP is different from embeddings. As for HPP, The basic element is state or node with acting edges or branches,with each branch with  a particular context. Deep Learning Models can learn individual embeddings, but HPP is  learned from contextual related environment.
 
