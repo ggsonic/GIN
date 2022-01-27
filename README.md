@@ -3,7 +3,7 @@ Official repository for the work: "Preliminary concept of General intelligent ne
 
 # Some Explanation
 
-* HPP  Why we name it HPP? Because HPP is different from embeddings. As for HPP, The basic element is __H__idden state or node (__P__oint) with acting edges or branches (__P__atch),with each branch with  a particular context. Deep Learning Models can learn individual embeddings, but HPP is  learned from contextual related environment.
+* HPP  Why we name it HPP? Because HPP is different from embeddings. As for HPP, The basic element is **Hidden** state or node ( **Point** ) with acting edges or branches ( **Patch** ),with each branch with  a particular context. Deep Learning Models can learn individual embeddings, but HPP is  learned from contextual related environment.
 
 * NKC  The process of Neural Knowledge Compression do similar thing like encoding HPPs. With input horizontal sequence-to-sequence HPPs, NKC got output one HPP with branch-to-branch forward graph, a.k.a a new HPP graph. Imagine a scenario, we have just watched a movie, which is one hour MP4 video file with 25 fps; Then After NKC, our brain or GIN output one HPP with dozens of forward branches,which may be only hundreds of bytes! Later on When we need to recall this movie, this HPP graph would be parsed with our GAN-like GIN Generative Network. NKC keep running when people are sleeping or dreaming, with brain's memory space freed up and got deeper knowledge and wisdom.
 
