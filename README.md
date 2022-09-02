@@ -1,3 +1,5 @@
+[UPDATE] our new paper is published : "FAITHNET: A GENERATIVE FRAMEWORK IN HUMAN MENTALIZING"[[here](http://dx.doi.org/10.13140/RG.2.2.22140.21121)]
+
 # GIN
 Official repository for the work: "Preliminary concept of General intelligent network (GIN) for brain-like intelligence"[[pdf](https://vixra.org/pdf/2201.0188v1.pdf)]
 
