@@ -1,4 +1,4 @@
-[UPDATE -2022-09-02] our new paper is published : "FaithNet: A Generative Framework in Human Mentalizing"[[here](http://dx.doi.org/10.13140/RG.2.2.22140.21121)]
+[UPDATE -2022-09-02] our new paper is published : "FaithNet: A Generative Framework in Human Mentalizing"[[here](http://dx.doi.org/10.13140/RG.2.2.22140.21121) or [here](https://doi.org/10.36227/techrxiv.21359667.v1)]
 
 # GIN
 Official repository for the work: "Preliminary concept of General intelligent network (GIN) for brain-like intelligence"[[pdf](https://vixra.org/pdf/2201.0188v1.pdf)]
